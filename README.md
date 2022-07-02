@@ -1,2 +1,2 @@
 # OpenBootcamp - Ejercicios resueltos
-Mis ejercicios resueltos en orden para los cursos de https://github.com/Open-Bootcamp.
+Mis ejercicios resueltos en orden para los cursos de https://campus.open-bootcamp.com/cursos.
