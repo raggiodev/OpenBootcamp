@@ -9,6 +9,7 @@ public class Main {
     coche.agregarPuerta();
     System.out.println("El número de puertas que posee el coche ahora es: " + coche.puertas + ".");
   }
+  
   // Primera parte:
   public static void suma(int num1, int num2, int num3) {
     int resultado;
@@ -17,6 +18,7 @@ public class Main {
     System.out.println("El resultado de la suma entre estos tres números es: " + resultado + ".");
   }
 }
+
 //Segunda parte:
 class Coche {
   public int puertas = 4;
