@@ -1,4 +1,4 @@
-// Ejercicios Tema 3 - Curso de Introducción a la programación - OpenBootcamp | @JoeTheorium - Raggio Fernando Andres
+// Ejercicios Tema 4 - Curso de Introducción a la programación - OpenBootcamp | @JoeTheorium - Raggio Fernando Andres
 public class Main {
   
   public static void main(String[] args) {
