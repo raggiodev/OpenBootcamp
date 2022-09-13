@@ -6,7 +6,7 @@ public class Main {
       Cliente cliente = new Cliente(); 
       Trabajador trabajador = new Trabajador();
       
-      // Creo un objeto de la clase "Cliente" que tiene como propiedades el nombre, la edad, el telefono y el credito, le doy valor y lo muestro por pantalla.
+      // Creo un objeto de la clase "Cliente" que tiene como propiedades el nombre, la edad, el telefono y el credito, le doy valor y lo muestro por pantalla:
       cliente.nombre = "Fernando";
       cliente.edad = 23;
       cliente.cel = 37725638;
