@@ -1,0 +1,12 @@
+// Ejercicio 6 - Curso de HTML y CSS - OpenBootcamp | @JoeTheorium - Raggio Fernando Andrés
+#elemento-1 {
+    color: rgb(255, 0, 0);
+}
+
+ul li#elemento-1 {
+    font-size: 2rem;
+}
+
+.encabezado {
+    font-size: 2rem;
+}
