@@ -1,0 +1,35 @@
+// Ejercicio 7 - Curso de HTML y CSS - OpenBootcamp | @JoeTheorium - Raggio Fernando Andrés
+* {
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    color: rgb(0, 65, 150);
+    text-align: center;
+    padding: 1vw;
+}
+
+.imagen-principal {
+    display: block;
+    margin: auto;
+    width: 30vw;
+}
+
+div {
+    padding: 70px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+img {
+    width: 300px;
+}
+
+img:hover {
+    opacity: 0.5;
+    cursor: pointer;
+}
