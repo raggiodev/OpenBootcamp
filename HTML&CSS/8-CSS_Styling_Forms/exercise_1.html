@@ -1,0 +1,57 @@
+// Ejercicio 9 - Curso de HTML y CSS - OpenBootcamp | @JoeTheorium - Raggio Fernando Andrés
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Form</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Register in the forms</h2>
+        <div class="buttons">
+            <button class="google-btn">
+                <picture>
+                    <img src="https://entredichos.trabajosocial.unlp.edu.ar/wp-content/uploads/sites/6/2016/12/Google_-G-_Logo.svg_.png" alt="Logo Google"/>
+                </picture>
+                <span>Sign up with Google</span>
+            </button>
+            <button class="twitter-btn">
+                <picture>Twitter</picture>
+            </button>
+        </div>
+        <div class="separator">
+            <hr>
+            <span>Or</span>
+            <hr>
+        </div>
+        <form action="" method="">
+            <div class="section-inputs">
+                <label for="name">
+                    <span>Name</span>
+                    <input id="name" name="name" required/>
+                </label>
+                <label for="username">
+                    <span>Username</span>
+                    <input id="username" name="username" required/>
+                </label>
+            </div>
+            <label for="email">
+                <span>Email</span>
+                <input id="email" name="email" required/>
+            </label>
+            <label for="password">
+                <span>Password</span>
+                <input id="password" name="password" placeholder="6+ characters" required/>
+            </label>
+            <label for="checkbox" class="checkbox-label">
+                <input type="checkbox" id="checkbox" required>
+                <span>I accept the conditions and the legal notice.</span>
+            </label>
+            <button type="submit" class="submit-btn">Create Account</button>
+        </form>
+    </div>
+</body>
+</html>
