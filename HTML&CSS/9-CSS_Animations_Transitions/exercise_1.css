@@ -1,0 +1,28 @@
+/* Ejercicio 10 - Curso de HTML y CSS - OpenBootcamp | @JoeTheorium - Raggio Fernando Andrés */
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.btn-modern {
+    padding: 2rem 3rem;
+    font-size: 2rem;
+    border: 1px solid transparent;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.4s ease-in-out;
+}
+
+.btn-modern:hover {
+    color: #fff;
+    background-color: #225ea3;
+    box-shadow: 0 5px 10px rgba(8, 43, 238, 0.6);
+    transform: translateY(-5px);
+}
