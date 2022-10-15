@@ -13,7 +13,7 @@ body {
 
 .sidebar {
     background-color: #2b2b2b;
-    color: rgb(255,255,255);
+    color: #f0f8ff;
     display: flex;
     flex-direction: column;
     padding: 0.8rem;
