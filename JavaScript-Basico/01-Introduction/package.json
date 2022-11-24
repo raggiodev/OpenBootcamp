@@ -1,0 +1,29 @@
+{
+  "name": "01-js_b-ob",
+  "version": "1.0.0",
+  "description": "Exercise 01 - Unit 3 - JavaScript Basico - Open Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "first",
+    "project",
+    "exercise",
+    "unit",
+    "javascript",
+    "basico",
+    "nodejs",
+    "node",
+    "npm",
+    "open",
+    "ISC",
+    "Raggio",
+    "JoeTheorium",
+    "bootcamp",
+    "openbootcamp"
+  ],
+  "author": "JoeTheorium",
+  "license": "ISC"
+}
