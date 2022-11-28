@@ -1,4 +1,4 @@
-// Ejercicio 03 - Curso de JavaScript Básico - OpenBootcamp | @JoeTheorium - Raggio Fernando Andrés
+// Ejercicio 03-1 - Curso de JavaScript Básico - OpenBootcamp | @JoeTheorium - Raggio Fernando Andrés
 let factorial = 1;
 
 for (let i = 10; i > 0; i--) {
