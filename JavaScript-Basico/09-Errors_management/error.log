@@ -1,0 +1,1 @@
+{"level":"error","message":"Error: Hola, soy un error desde una función 'showError' dentro del 'index.js' que se encuentra en la carpeta main.","service":"user-service"}
