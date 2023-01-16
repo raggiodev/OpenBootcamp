@@ -1,0 +1,30 @@
+/* Ejercicio 16 - Curso de JavaScript Básico - OpenBootcamp | @JoeTheorium - Raggio Fernando Andrés */
+.section {
+    background-color: #2f4f4f;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.paragraph {
+    background-color: #fff;
+    padding: 1rem;
+    cursor: pointer;
+}
+
+.paragraph.dragging {
+    opacity: 0.5;
+}
+
+.ghost-image {
+    width: 1000px;
+    height: 50px;
+    background-color: #031d14;
+    position: absolute;
+    left: -100vw; /* Un truquito para que aparezca un 100% de la anchura hacia la izquierda, por ende NO se ve, pero sigue existiendo y puede usarse. */
+}
+
+.dumpster-ctn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
